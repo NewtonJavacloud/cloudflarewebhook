@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "cloudflarewebhook",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "42273e8d-70d5-46d3-b382-621430407163",
+      "database_name": "webhook"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
